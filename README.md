@@ -1,5 +1,5 @@
 <p align="center">
-    <a><img src="https://drive.google.com/file/d/1VKuAKjIafgktfe0vNojpUW9VWgjXufLR/view?usp=sharing" alt="[002]"></a>
+    <a><img src="img/Goku_movie_6_2010.jpg" alt="[002]"></a>
 </p>
 
 <p align = "center">
